@@ -8,3 +8,7 @@ print("They would be sedans.")
 
 print("What did the fish say when it hit the wall")
 print("dam")
+
+
+print("Chuck Norris doesn't go to the bathroom.")
+print("The bathroom comes to Chuck Norris")
